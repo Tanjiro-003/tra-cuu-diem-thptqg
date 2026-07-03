@@ -1,0 +1,9 @@
+{
+    "2captcha": {
+        "api_key": "ĐIỀN_API_KEY_CỦA_BẠN_VÀO_ĐÂY",
+        "enable": false
+    },
+    "settings": {
+        "delay_between_requests": 1.5
+    }
+}
